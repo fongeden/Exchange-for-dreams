@@ -1,2 +1,2 @@
 # Exchange-for-dreams
-CSCI3100 web project
+CS course web project
