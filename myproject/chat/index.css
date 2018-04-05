@@ -1,0 +1,16 @@
+  body{
+    height: 1050px;
+    background: linear-gradient(#f8f8f8, #a9adb2) !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form-control {
+    background-color: #fff !important;
+  }
+
+.btn-primary {
+      background-color: #428bca !important ;
+  }
+
+.jumbotron {
+    border-style: inset !important;
+    }
