@@ -1,0 +1,13 @@
+.container .jumbotron{
+  border: 4px solid #95979b;
+  border-style: outset;
+}
+
+.jumbotron{
+  background: linear-gradient(#f2f2f2, #a9adb2);
+  }
+
+  body{
+    height: auto;
+    background: linear-gradient(#f8f8f8, #a9adb2);
+  }
