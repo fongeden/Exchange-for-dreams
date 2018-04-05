@@ -1,2 +1,2 @@
 # Exchange-for-dreams
-CS course web project
+CS course web group project
